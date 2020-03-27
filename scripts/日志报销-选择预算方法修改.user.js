@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://oa.epoint.com.cn/EpointCBM/Pages/BudgetInfo/NBudgetSelect/BudgetSelectDetail_List.aspx*|
+// @match        https://oa.epoint.com.cn/EpointCBM/Pages/BudgetInfo/NBudgetSelect/BudgetSelectDetail_List.aspx*
 // @grant        none
 // ==/UserScript==
 
